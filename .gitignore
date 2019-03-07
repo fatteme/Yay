@@ -36,6 +36,7 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 GitHubTest.iml
+Yay.iml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
